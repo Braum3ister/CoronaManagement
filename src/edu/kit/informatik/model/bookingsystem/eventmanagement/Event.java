@@ -1,7 +1,5 @@
 package edu.kit.informatik.model.bookingsystem.eventmanagement;
 
-import edu.kit.informatik.model.bookingsystem.CoronaRules;
-import edu.kit.informatik.model.bookingsystem.Location;
 import edu.kit.informatik.model.bookingsystem.groupmanagement.Person;
 import edu.kit.informatik.model.bookingsystem.utils.Date;
 

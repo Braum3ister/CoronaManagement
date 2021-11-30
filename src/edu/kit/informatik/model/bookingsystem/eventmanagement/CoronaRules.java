@@ -1,4 +1,4 @@
-package edu.kit.informatik.model.bookingsystem;
+package edu.kit.informatik.model.bookingsystem.eventmanagement;
 
 public enum CoronaRules {
     TWO_G("2G"),

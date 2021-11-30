@@ -1,4 +1,4 @@
-package edu.kit.informatik.model.bookingsystem;
+package edu.kit.informatik.model.bookingsystem.eventmanagement;
 
 public class Location {
     private final String name;
