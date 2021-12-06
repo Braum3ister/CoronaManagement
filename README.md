@@ -1,0 +1,2 @@
+# CoronaManagement
+Models a coronaMangementSystem
